@@ -24,29 +24,29 @@ Installation
 
 To run this project locally, install the following:
 
-Jupyter Notebook
-Python 3.8 or higher
+* Jupyter Notebook
+* Python 3.8 or higher
 
-Required Python Packages:
+* Required Python Packages:
 
-pandas
+   * pandas
 
-yfinance
+   * yfinance
 
-scikit-learn
+   * scikit-learn
 ## Data :mag_right:
 
 You’ll need several CSV files to run this project. These are included in the repository, but you can also download updated versions:
 
 Federal Reserve Data
-CPI dataset: [CPIAUCSL.csv](https://fred.stlouisfed.org/series/CPIAUCSL)
+* CPI dataset: [CPIAUCSL.csv](https://fred.stlouisfed.org/series/CPIAUCSL)
 
-Rental vacancy rate: [RRVRUSQ156N.csv](https://fred.stlouisfed.org/series/RRVRUSQ156N)
+* Rental vacancy rate: [RRVRUSQ156N.csv](https://fred.stlouisfed.org/series/RRVRUSQ156N)
 
-Mortgage interest rates: [MORTGAGE30US.csv](https://fred.stlouisfed.org/series/MORTGAGE30US)
+* Mortgage interest rates: [MORTGAGE30US.csv](https://fred.stlouisfed.org/series/MORTGAGE30US)
 
 [Zillow Data](https://www.zillow.com/research/data/)
 
-ZHVI (weekly raw data): Metro_zhvi_uc_sfrcondo_tier_0.33_0.67_month.csv
+* ZHVI (weekly raw data): Metro_zhvi_uc_sfrcondo_tier_0.33_0.67_month.csv
 
-Median sale price (weekly, all homes): Metro_median_sale_price_uc_sfrcondo_week.csv
+* Median sale price (weekly, all homes): Metro_median_sale_price_uc_sfrcondo_week.csv
