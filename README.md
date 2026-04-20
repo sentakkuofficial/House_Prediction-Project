@@ -24,7 +24,7 @@ Installation
 
 To run this project locally, install the following:
 
-Google Colab
+Jupyter Notebook
 Python 3.8 or higher
 
 Required Python Packages:
