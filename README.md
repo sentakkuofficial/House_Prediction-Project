@@ -1,4 +1,4 @@
-# House_Prediction-Project  :EMOJICODE:  :derelict_house:
+# House_Prediction-Project   :derelict_house:
 Students will able to predict future house prices
 
 In this project, we aim to forecast future housing prices. To do this, we’ll combine economic data from the Federal Reserve with housing data from Zillow. After merging and preparing the dataset, we’ll train a Random Forest model to predict whether house prices will go up or down.
@@ -7,13 +7,13 @@ We’ll evaluate the model’s performance using backtesting and then refine it 
 
 This project can also be adapted to focus on housing markets in specific U.S. metro areas.
 
-### Project Steps
+### Project Steps :dart:
 * Load the datasets
 * Clean and combine the data
 * Build an initial machine learning model and evaluate its performance
 * Improve the model’s accuracy
 * Perform diagnostics to identify further improvements
-## Code
+## Code   :desktop_computer:
 
 The full implementation for this project is available [here](https://github.com/sentakkuofficial/House_Prediction-Project).
 
@@ -34,7 +34,7 @@ pandas
 yfinance
 
 scikit-learn
-## Data
+## Data :mag_right:
 
 You’ll need several CSV files to run this project. These are included in the repository, but you can also download updated versions:
 
