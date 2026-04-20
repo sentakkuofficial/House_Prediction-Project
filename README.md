@@ -1,7 +1,7 @@
 # House_Prediction-Project   :derelict_house:
 Students will able to predict future house prices
 
-In this project, we aim to forecast future housing prices. To do this, we’ll combine economic data from the Federal Reserve with housing data from Zillow. After merging and preparing the dataset, we’ll train a Random Forest model to predict whether house prices will go up or down.
+In this project, we aim to forecast future New York housing prices. To do this, we’ll combine economic data from the Federal Reserve with housing data from Zillow. After merging and preparing the dataset, we’ll train a Random Forest model to predict whether house prices will go up or down.
 
 We’ll evaluate the model’s performance using backtesting and then refine it by adding new features to improve accuracy.
 
