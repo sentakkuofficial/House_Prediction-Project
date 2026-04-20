@@ -26,9 +26,13 @@ To run this project locally, install the following:
 
 Google Colab
 Python 3.8 or higher
-Required Python Packages
+
+Required Python Packages:
+
 pandas
+
 yfinance
+
 scikit-learn
 ## Data
 
